@@ -1,0 +1,15 @@
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/elvis/.rbenv/versions/2.7.4/bin/ruby -I /home/elvis/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20221205-71611-9p2v3l.rb extconf.rb
+creating Makefile
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" install
+/bin/install -c -m 0755 websocket_mask.so ./.gem.20221205-71611-x3fhoi

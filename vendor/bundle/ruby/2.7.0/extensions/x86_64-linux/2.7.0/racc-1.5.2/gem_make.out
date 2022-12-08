@@ -1,0 +1,16 @@
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/home/elvis/.rbenv/versions/2.7.4/bin/ruby -I /home/elvis/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20221205-71611-1fargnm.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/elvis/hackerrank-app/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/bin/install -c -m 0755 cparse.so ./.gem.20221205-71611-1i78ri2/racc
